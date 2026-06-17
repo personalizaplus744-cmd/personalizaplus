@@ -1,0 +1,8 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#FAFAF9"/>
+  <rect x="212" y="102" width="776" height="696" rx="24" fill="#111827"/>
+  <rect x="250" y="140" width="700" height="620" rx="16" fill="#F8FAFC"/>
+  <path d="M600 332C634 266 740 258 770 334C790 386 756 444 600 566C444 444 410 386 430 334C460 258 566 266 600 332Z" fill="#EF4444"/>
+  <text x="600" y="650" text-anchor="middle" fill="#111827" font-size="54" font-family="Georgia, serif" font-weight="700">Love Home</text>
+  <text x="600" y="708" text-anchor="middle" fill="#6B7280" font-size="24" font-family="Arial, Helvetica, sans-serif">Quadro minimalista</text>
+</svg>

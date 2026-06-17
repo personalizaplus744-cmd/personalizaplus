@@ -1,0 +1,7 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#FAFAF9"/>
+  <circle cx="296" cy="184" r="118" fill="#FDE68A" fill-opacity="0.25"/>
+  <circle cx="514" cy="390" r="102" fill="none" stroke="#71717A" stroke-width="24"/>
+  <path d="M606 376C638 316 734 308 760 378C778 424 748 476 606 584C464 476 434 424 452 378C478 308 574 316 606 376Z" fill="#E4E4E7" stroke="#71717A" stroke-width="10"/>
+  <text x="600" y="714" text-anchor="middle" fill="#27272A" font-size="54" font-family="Arial, Helvetica, sans-serif" font-weight="700">HEART METAL</text>
+</svg>

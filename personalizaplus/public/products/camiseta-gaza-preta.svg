@@ -1,0 +1,9 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#0F172A"/>
+  <circle cx="996" cy="160" r="120" fill="#10B981" fill-opacity="0.25"/>
+  <circle cx="228" cy="760" r="170" fill="#22C55E" fill-opacity="0.18"/>
+  <path d="M444 204L332 270L292 408L406 472V702H794V472L908 408L868 270L756 204L676 266H524L444 204Z" fill="#111827"/>
+  <path d="M500 326H700V378H500V326Z" fill="#10B981"/>
+  <text x="600" y="600" text-anchor="middle" fill="white" font-size="66" font-family="Arial, Helvetica, sans-serif" font-weight="700">PERSONALIZAPLUS</text>
+  <text x="600" y="668" text-anchor="middle" fill="#A7F3D0" font-size="32" font-family="Arial, Helvetica, sans-serif">Camiseta Gaza Preta</text>
+</svg>

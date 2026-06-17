@@ -1,0 +1,14 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#172554"/>
+  <rect x="0" y="0" width="1200" height="900" fill="url(#paint0_linear_1_2)"/>
+  <path d="M444 204L332 270L292 408L406 472V702H794V472L908 408L868 270L756 204L676 266H524L444 204Z" fill="#1D4ED8"/>
+  <path d="M476 370C528 316 610 310 668 352C726 394 762 390 788 352V514C710 560 534 560 476 514V370Z" fill="#F59E0B"/>
+  <text x="600" y="624" text-anchor="middle" fill="white" font-size="64" font-family="Arial, Helvetica, sans-serif" font-weight="700">ARTE URBANA</text>
+  <text x="600" y="690" text-anchor="middle" fill="#BFDBFE" font-size="30" font-family="Arial, Helvetica, sans-serif">Coleção jovem Personalizaplus</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="140" y1="96" x2="1064" y2="796" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+</svg>

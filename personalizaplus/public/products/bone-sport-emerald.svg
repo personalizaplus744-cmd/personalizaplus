@@ -1,0 +1,8 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#052E2B"/>
+  <circle cx="260" cy="198" r="120" fill="#6EE7B7" fill-opacity="0.22"/>
+  <ellipse cx="600" cy="590" rx="286" ry="90" fill="#064E3B"/>
+  <path d="M404 418C404 308 490 232 600 232C710 232 796 308 796 418V492H404V418Z" fill="#10B981"/>
+  <path d="M320 538C390 490 492 462 600 462C708 462 810 490 880 538C822 582 726 614 600 614C474 614 378 582 320 538Z" fill="#022C22"/>
+  <text x="600" y="716" text-anchor="middle" fill="#D1FAE5" font-size="56" font-family="Arial, Helvetica, sans-serif" font-weight="700">SPORT EMERALD</text>
+</svg>

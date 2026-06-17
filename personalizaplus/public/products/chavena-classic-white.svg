@@ -1,0 +1,8 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#F8FAFC"/>
+  <circle cx="904" cy="220" r="132" fill="#93C5FD" fill-opacity="0.24"/>
+  <path d="M354 326H732V636C732 682.392 694.392 720 648 720H438C391.608 720 354 682.392 354 636V326Z" fill="white" stroke="#CBD5E1" stroke-width="10"/>
+  <path d="M732 382H792C851.647 382 900 430.353 900 490C900 549.647 851.647 598 792 598H732" stroke="#CBD5E1" stroke-width="28"/>
+  <text x="544" y="514" text-anchor="middle" fill="#0F172A" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="700">CHÁVENA</text>
+  <text x="544" y="578" text-anchor="middle" fill="#475569" font-size="28" font-family="Arial, Helvetica, sans-serif">Classic Branca</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#111827"/>
+  <circle cx="896" cy="238" r="132" fill="#10B981" fill-opacity="0.22"/>
+  <ellipse cx="598" cy="596" rx="278" ry="86" fill="#0F172A"/>
+  <path d="M408 420C408 298 494 228 600 228C706 228 792 298 792 420V492H408V420Z" fill="#0B1220"/>
+  <path d="M314 538C382 486 488 458 600 458C712 458 818 486 886 538C824 582 726 612 600 612C474 612 376 582 314 538Z" fill="#1F2937"/>
+  <text x="600" y="712" text-anchor="middle" fill="white" font-size="58" font-family="Arial, Helvetica, sans-serif" font-weight="700">BONÉ SIGNATURE</text>
+</svg>

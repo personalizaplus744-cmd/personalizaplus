@@ -1,0 +1,9 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#E5E7EB"/>
+  <circle cx="912" cy="204" r="132" fill="#60A5FA" fill-opacity="0.26"/>
+  <circle cx="248" cy="720" r="160" fill="#93C5FD" fill-opacity="0.3"/>
+  <path d="M444 204L332 270L292 408L406 472V702H794V472L908 408L868 270L756 204L676 266H524L444 204Z" fill="white" stroke="#CBD5E1" stroke-width="10"/>
+  <rect x="482" y="338" width="236" height="56" rx="14" fill="#2563EB"/>
+  <text x="600" y="600" text-anchor="middle" fill="#0F172A" font-size="66" font-family="Arial, Helvetica, sans-serif" font-weight="700">PREMIUM</text>
+  <text x="600" y="668" text-anchor="middle" fill="#475569" font-size="32" font-family="Arial, Helvetica, sans-serif">Camiseta Branca</text>
+</svg>
